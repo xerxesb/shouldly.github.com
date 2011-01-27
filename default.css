@@ -77,6 +77,15 @@ hr {
 	color: #FFFFFF;
 }
 
+#ci-builds {
+	float:right;
+	background-color:Transparent
+}
+
+#ci-builds p {
+	font-weight:bold;
+}
+
 #logo h1 {
 }
 
